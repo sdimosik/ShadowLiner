@@ -1,4 +1,4 @@
-### ShadowLiner
+### ShadowLiner Convertor
 
 ShadowLiner is a simple and efficient tool that converts your Outline key into a JSON configuration for the Shadowsocks client.
 
