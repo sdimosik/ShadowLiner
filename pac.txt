@@ -1,10 +1,10 @@
-﻿var __USERRULES__ = [];
+﻿var __USERRULES__ = [
+    "youtube.com"
+];
 var __RULES__ = [];
 
 var proxy = __PROXY__;
-var userrules = [
-    "youtube.com"
-];
+var userrules = [];
 var rules = [];
 
 var re = /^(@@)?\|\|.*?[^\^]$/;
